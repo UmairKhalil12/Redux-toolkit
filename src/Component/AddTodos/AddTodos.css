@@ -1,0 +1,36 @@
+.main-form-add-todo-div{
+    margin: 0 auto;
+    width: 50%;
+    margin-bottom: 3rem;
+    margin-top: 2rem;
+}
+
+.form-add-todo{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.check-input{
+    border-radius: 3px;
+    height: 30px;
+}
+
+.text-input{
+    width: 100%;
+    height: 30px;
+    border-radius: 3px;
+    border: 1px solid black;
+}
+
+.add-btn{
+    height: 30px;
+    border-radius:3px ;
+    background-color: rgb(19, 208, 63);
+    border: none;
+    padding: 0.5rem;
+}
+
+.add-btn:hover{
+    background-color:green;
+}
